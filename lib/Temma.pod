@@ -130,12 +130,10 @@ repository:
 
 Although not required, some of features depend on L<Path::Class>.
 
-=head1 DEVELOPMENT
+=head1 HISTORY
 
-Latest version of Temma implementation is available in the Git
-repository: <https://github.com/wakaba/temma>.
-
-Tests are run at Temma CI <http://travis-ci.org/wakaba/temma>.
+The Git repository was at <https://github.com/wakaba/temma> until 19
+November 2023, then transferred to the manakai project.
 
 =head1 AUTHOR
 
@@ -143,7 +141,7 @@ Wakaba <wakaba@suikawiki.org>.
 
 =head1 LICENSE
 
-Copyright 2012-2016 Wakaba <wakaba@suikawiki.org>.
+Copyright 2012-2023 Wakaba <wakaba@suikawiki.org>.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
