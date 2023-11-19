@@ -311,7 +311,6 @@
   </t:for>
 
   <div id=map class=map></div>
-  <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAmPxsvoS9L-Ixcwex0XjMReZCg7dE4kv4&sensor=false&libraries=places"></script>
   <script>
     createMapFromSpotList ('map', '[data-spot-lat][data-spot-lon]');
   </script>
