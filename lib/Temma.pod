@@ -108,7 +108,7 @@ until the DOM tree is completely constructed by the parser.
 
 =head1 DEPENDENCY
 
-Temma requires Perl 5.10 or later.  In addition, it is built on top of
+Temma requires Perl 5.14.2 or later.  In addition, it is built on top of
 following packages, which are registered as submodules of the Temma
 repository:
 
