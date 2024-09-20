@@ -7,7 +7,7 @@ Encode~3.21
 Exporter::Lite~0.09
 Path::Class~0.37
 Path::Tiny~0.146
-Scalar::Util~1.65
+Scalar::Util~1.66
 Term::ANSIColor~5.01
 Term::Table~0.022
 Test::Builder~1.302204
