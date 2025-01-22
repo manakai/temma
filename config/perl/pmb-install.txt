@@ -10,6 +10,6 @@ Path::Tiny~0.146
 Scalar::Util~1.68
 Term::ANSIColor~5.01
 Term::Table~0.024
-Test::Builder~1.302207
+Test::Builder~1.302208
 Test::Differences~0.71
 Text::Diff~1.45
