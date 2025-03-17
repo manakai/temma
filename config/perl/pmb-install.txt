@@ -6,7 +6,7 @@ Data::Dumper~2.183
 Encode~3.21
 Exporter::Lite~0.09
 Path::Class~0.37
-Path::Tiny~0.146
+Path::Tiny~0.148
 Scalar::Util~1.68
 Term::ANSIColor~5.01
 Term::Table~0.024
