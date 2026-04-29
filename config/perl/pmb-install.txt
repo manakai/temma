@@ -3,13 +3,13 @@ AnyEvent~7.17
 Capture::Tiny~0.50
 Carp~1.50
 Data::Dumper~2.183
-Encode~3.23
+Encode~3.24
 Exporter::Lite~0.09
 Path::Class~0.37
 Path::Tiny~0.150
 Scalar::Util~1.70
 Term::ANSIColor~5.01
 Term::Table~0.028
-Test::Builder~1.302219
 Test::Differences~0.72
+Test::More~1.302219
 Text::Diff~1.45
